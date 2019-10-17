@@ -4,6 +4,6 @@
  </head>
  <body>
  <?php echo '<p style="color: red">Hello World</p>'; ?> 
- <img src="~/src/ricardo">
+ <img src="src/ricardo.jfif">
  </body>
 </html>
